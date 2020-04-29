@@ -1,0 +1,2 @@
+# ryu-g-blog
+myblog
